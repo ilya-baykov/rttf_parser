@@ -9,6 +9,9 @@ from src.storage import JsonStorage
 URLS = [
     "https://rttf.ru/players/193138",
     "https://rttf.ru/players/242733",
+    "https://rttf.ru/players/237657",
+    "https://rttf.ru/players/109567",
+    "https://rttf.ru/players/205479",
 ]
 
 
