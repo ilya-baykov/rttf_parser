@@ -3,7 +3,6 @@ from pathlib import Path
 BASE_URL = "https://rttf.ru/"
 
 DEFAULT_OUTPUT_DIR = Path("parsed_rttf_players")
-DEFAULT_BATCH_FILENAME = "rttf_players_batch.json"
 DEFAULT_CONCURRENCY = 5
 DEFAULT_TIMEOUT_SECONDS = 20.0
 DEFAULT_LOG_LEVEL = "INFO"
