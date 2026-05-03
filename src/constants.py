@@ -8,11 +8,6 @@ DEFAULT_CONCURRENCY = 5
 DEFAULT_TIMEOUT_SECONDS = 20.0
 DEFAULT_LOG_LEVEL = "INFO"
 
-DEFAULT_URLS = [
-    "https://rttf.ru/players/193138",
-    "https://rttf.ru/players/242733",
-]
-
 DEFAULT_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
